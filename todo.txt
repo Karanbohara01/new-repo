@@ -1,0 +1,20 @@
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+- [ ] Task 4
+- [ ] Task 5
+
+## Shopping List
+- [ ] Milk
+- [ ] Bread
+- [ ] Eggs
+
+## Work Projects
+- [ ] Complete documentation
+- [ ] Review pull requests
+- [ ] Update dependencies
+
+## Personal
+- [ ] Exercise
+- [ ] Read a book
+- [ ] Call a friend
