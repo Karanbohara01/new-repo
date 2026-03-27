@@ -3,18 +3,30 @@
 - [ ] Task 3
 - [ ] Task 4
 - [ ] Task 5
+- [ ] Task 6
+- [ ] Task 7
+- [ ] Task 8
 
 ## Shopping List
 - [ ] Milk
 - [ ] Bread
 - [ ] Eggs
+- [ ] Butter
+- [ ] Cheese
+- [ ] Vegetables
 
 ## Work Projects
 - [ ] Complete documentation
 - [ ] Review pull requests
 - [ ] Update dependencies
+- [ ] Fix reported bugs
+- [ ] Optimize performance
+- [ ] Write unit tests
 
 ## Personal
 - [ ] Exercise
 - [ ] Read a book
 - [ ] Call a friend
+- [ ] Plan weekend trip
+- [ ] Organize workspace
+- [ ] Learn new skill
